@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm sanskrati Gawande👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 
