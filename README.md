@@ -1,5 +1,5 @@
 ### Hi there I'm sanskrati Gawande👋
-Here are some ideas to get you started:
+
 
 - 🌱 I’m currently learning new technologies .
 - 👯 I’m looking to collaborate on web development projects.
