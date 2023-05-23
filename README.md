@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **SpringBoot**
 
-- 👨‍💻 All of my projects are available at [https://sanskrati3.github.io/My-Portfolio/iPortfolio/](https://sanskrati3.github.io/My-Portfolio/iPortfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://sanskrati3.github.io/My-Portfolio/iPortfolio/)
 
 - 📝 I regularly write articles on [My World Of Fantasy](https://adinfinitum392547450.wordpress.com/)
 
@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **sanskratigawande@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/sanskrati3/Resume](https://github.com/sanskrati3/Resume)
+- 📄 Know about my experiences [Resume](https://github.com/sanskrati3/Resume)
 
 - ⚡ Fun fact **I think I am stupid**
 
