@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sanskrati3.github.io/My-Portfolio/iPortfolio/](https://sanskrati3.github.io/My-Portfolio/iPortfolio/)
 
-- 📝 I regularly write articles on [https://adinfinitum392547450.wordpress.com/](https://adinfinitum392547450.wordpress.com/)
+- 📝 I regularly write articles on [My World Of Fantasy](https://adinfinitum392547450.wordpress.com/)
 
 - 💬 Ask me about **Web series / Movies**
 
